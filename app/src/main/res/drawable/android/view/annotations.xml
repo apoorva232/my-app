@@ -1,0 +1,8 @@
+<root>
+    <item name='android.view.View T findViewById(int)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="value" val="&quot;_ -&gt; this&quot;" />
+            <val name="pure" val="true" />
+        </annotation>
+    </item>
+</root>
